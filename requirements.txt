@@ -1,2 +1,2 @@
 streamlit
-pip install flask flask-sqlalchemy flask-bcrypt flask-login
+pip install flask
